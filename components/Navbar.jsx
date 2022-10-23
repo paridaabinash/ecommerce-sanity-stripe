@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='navbar-container'>
       <p className='logo'>
-        <Link href='/'>Parida's Ekart</Link>
+        <Link href='/'>Parida&apos;s Ekart</Link>
       </p>
 
       <button type='button' className='cart-icon' onClick={()=> {
